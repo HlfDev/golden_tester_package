@@ -9,7 +9,7 @@ import 'package:image/image.dart' as img;
 import 'package:path_provider/path_provider.dart';
 
 import 'device_size.dart';
-import 'test_config.dart';
+import 'golden_test_config.dart';
 
 typedef GoldenWidgetBuilder = Widget Function();
 
